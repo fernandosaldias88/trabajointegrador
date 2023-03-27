@@ -6,7 +6,7 @@
 }
 
 .cabecera{
-    background-color: #b939ee !important;
+    background-color: #284b63 !important;
     border-bottom:  5px solid #172c3a; 
    
 }
@@ -29,9 +29,15 @@ body{
 }
 .imagenBoton{
     height: 80vh;
+
+ 
+   
 }
 .cuerpo{
     height: 80vh;
+}
+.cuerpoServicio{
+    height: 60vh;
 }
 .footer {
     background-color: #172c3a;
@@ -51,4 +57,7 @@ body{
     color: #cfcfcf;
  }
 
- 
+ .card {
+    background-color: rgba(0, 0, 0, 0.068) !important;
+    box-shadow: 1px 10px 0px 0px rgba(0, 0, 0, 0.144)
+ }
