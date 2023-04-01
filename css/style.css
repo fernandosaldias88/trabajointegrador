@@ -6,19 +6,19 @@
 }
 
 .cabecera{
-    background-color: #eeea0a !important;
-    border-bottom:  5px solid #2b8fd2; 
+    background-color: #265466 !important;
+    border-bottom:  5px solid #26435a; 
    
 }
 
 a{
-    color: rgb(102, 7, 7) !important;
+    color: rgb(255, 255, 255) !important;
     text-decoration: none;
     font-size: 15px;
 }
 
 body{
-    background-color: rgb(38, 19, 162);
+    background-color: rgb(230, 230, 230);
     margin: 0%;
     padding: 0%;
 }
